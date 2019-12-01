@@ -2,6 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
+- [Centos安装cheat 小记](https://github.com/pupuk/blog/issues/24)
 - [一次折腾的VirtualBox之旅(kernel panic - not syncing : fatal exception)](https://github.com/pupuk/blog/issues/23)
 - [PHP的$_POST的值都是string类型吗？](https://github.com/pupuk/blog/issues/22)
 - [一次小小的HTTP协议测试](https://github.com/pupuk/blog/issues/21)
