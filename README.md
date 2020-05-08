@@ -2,7 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
-
+- [编译安装Nginx并添加第三方模块](https://github.com/pupuk/blog/issues/26)
 - [Supervisor的入门笔记](https://github.com/pupuk/blog/issues/25)
 - [Centos安装cheat 小记](https://github.com/pupuk/blog/issues/24)
 - [一次折腾的VirtualBox之旅(kernel panic - not syncing : fatal exception)](https://github.com/pupuk/blog/issues/23)
