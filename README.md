@@ -20,7 +20,6 @@ My New Blog. Record &amp; Share. Welcome to star.
 - [PHP导出Excel插件进化](https://github.com/pupuk/blog/issues/11)
 - [PHP函数ip2long为什么会出现负数？ip2long如何实现？](https://github.com/pupuk/blog/issues/10)
 - [vi, vim 为什么会在文件末尾追加一个换行符\n](https://github.com/pupuk/blog/issues/9)
-- [HTTP2协议 要点摘要](https://github.com/pupuk/blog/issues/8)
 - [Linux 运维体系 基本知识点](https://github.com/pupuk/blog/issues/7)
 - [PHP 执行过程 AST &amp; Opcache](https://github.com/pupuk/blog/issues/6)
 - [伪元素，伪类，以及CSS选择器](https://github.com/pupuk/blog/issues/5)
