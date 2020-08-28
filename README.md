@@ -2,6 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
+- [架构基础等其它文章（温故而知新）链接](https://github.com/pupuk/blog/issues/29)
 - [Golang文章（温故而知新）链接](https://github.com/pupuk/blog/issues/28)
 - [如何完全彻底隐藏PHP？](https://github.com/pupuk/blog/issues/27)
 - [编译安装Nginx并添加第三方模块](https://github.com/pupuk/blog/issues/26)
