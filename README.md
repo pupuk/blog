@@ -2,6 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
+- [关于nginx，gin和php的一次压力测试](https://github.com/pupuk/blog/issues/33)
 - [细数PHP函数trim的那些怪异行为](https://github.com/pupuk/blog/issues/32)
 - [Golang中的string，unsafe.Sizof(string)总是16个字节，为什么？](https://github.com/pupuk/blog/issues/31)
 - [Go map的一些思考和结论](https://github.com/pupuk/blog/issues/30)
