@@ -2,6 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
+- [Go语言小计 琐碎点 基础点](https://github.com/pupuk/blog/issues/36)
 - [Go Fiber 尝试的一些问题和思考](https://github.com/pupuk/blog/issues/35)
 - [32空格和160空格](https://github.com/pupuk/blog/issues/34)
 - [关于nginx，gin和php的一次压力测试](https://github.com/pupuk/blog/issues/33)
