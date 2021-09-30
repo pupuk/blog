@@ -2,6 +2,7 @@
 My New Blog. Record &amp; Share. Welcome to star.
 
 # 文章列表
+- [从Fiber的ctx.Redirect()函数看，参数的默认值](https://github.com/pupuk/blog/issues/37)
 - [Go语言小计 琐碎点 基础点](https://github.com/pupuk/blog/issues/36)
 - [Go Fiber 尝试的一些问题和思考](https://github.com/pupuk/blog/issues/35)
 - [32空格和160空格](https://github.com/pupuk/blog/issues/34)
